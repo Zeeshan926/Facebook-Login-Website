@@ -1,0 +1,10 @@
+body{
+    color: white;
+    background-color: rgb(52, 64, 237)
+
+}
+label{
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}

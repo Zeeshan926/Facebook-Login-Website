@@ -1,0 +1,23 @@
+body{
+    color: rgb(34, 34, 146);
+    background-color:white
+    margin: 0 auto;
+    padding: auto;
+    font-family: Arial,Helvetic    
+}
+#header{
+    background-color: blue;
+    color: white;
+    height: 60px;
+    padding-top: 10px;
+}
+img{
+    width: 200px;
+}
+button{
+    font-size: larger;
+}
+label{
+    color: blue;
+    font-size: larger;
+}
